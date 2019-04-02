@@ -1,5 +1,6 @@
 # Birkbeck-LLB-Progression-Analysis
 University of London, Birkbeck LLB Program: Analysis of students' progression hurdles
+
 Code written by KV in 2019
 
 All .ipynb scripts import a custom package of functions called 'LLB_custom_scripts.py' (pc) or "LLB_custom_scripts_mac.py" (mac). 
