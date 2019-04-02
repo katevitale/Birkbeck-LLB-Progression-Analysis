@@ -6,4 +6,4 @@ All .ipynb scripts import a custom package of functions called 'LLB_custom_scrip
 
 "Anonymize student data.ipynb" is run by a user at Birkbeck to anonymize student module grades data, which can then be sent to KV for further processing.
 
-"Make summary modules.ipynb" is run by KV with anonymized data, and produces an excel file with summary statistics that allow easier visualization of trends.
+"Create summary modules.ipynb" is run by KV with anonymized data, and produces an excel file with summary statistics that allow easier visualization of trends.
